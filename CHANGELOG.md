@@ -1,0 +1,208 @@
+## 4.1.0
+Mod configs now work... so guess every update prior to 4.1.0, is broken.
+Skills button is a bit scuffed but still functions.
+- Added Mods
+  - [DefaultConfigs | 1.0.0](https://thunderstore.io/c/lethal-company/p/CatsArmy/DefaultConfigs/) - This makes the mod configs work as intended.
+  - [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/) - Adds casino at the company
+- Updated Mods
+  - [SCPFoundationDungeon | 4.2.0 → 4.3.0](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/changelog/)
+  - [HotbarPlus | 1.6.7 → 1.6.8](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/changelog/)
+  - [ReservedItemSlotCore | 2.0.29 → 2.0.30](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/changelog/)
+  - [TooManyEmotes | 2.1.17 → 2.1.19](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/changelog/)
+  - [Lethal Admin | 1.8.0 → 1.9.0](https://thunderstore.io/c/lethal-company/p/gamendegamer/Lethal_Admin/changelog/)
+  - [Interactive Terminal API | 1.1.1 → 1.1.2](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Terminal_API/changelog/)
+  - [Lategame Upgrades | 3.7.1 → 3.7.2](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/changelog/)
+  - [HostFixes | 1.0.14 → 1.0.15](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/changelog/)
+  - [LethalLib | 0.15.1 → 0.16.0](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/changelog/)
+- Removed Mods
+  - [Brutal Company Reborn](https://thunderstore.io/c/lethal-company/p/2018/Brutal_Company_Reborn/) - Caused ship to never land
+## 4.0.0
+The long awaited V50 Update!
+- Replaced Mods (wow new changelog category :D)
+  - [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) 
+    - Replaced with [Mirage | 1.7.0](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - syncs player mimic audio to all players
+  - [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
+    - Replaced with [LethalCasino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
+  - [SellBodies](https://thunderstore.io/c/lethal-company/p/itsmeowdev/SellBodies/)
+    - Replaced with [SellBodiesFixed](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/)
+- Added Mods
+  - [InsanityRemastered | 1.2.1](https://thunderstore.io/c/lethal-company/p/Epicool/InsanityRemastered/) - Adds hallucinations.
+  - [ThrowEverything | 0.5.0](https://thunderstore.io/c/lethal-company/p/xAstroBoy/ThrowEverythingHOTFIXED/) - Adds throwing ability, doesn't work for all items.
+  - [LethalStats | 0.9.5](https://thunderstore.io/c/lethal-company/p/Danos/LethalStats/) - Adds user stats that can be seen on https://lethal.splitstats.io
+  - [FixCentipedeLag | 2023.12.7](https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/) - Removes stuck centipedes. (note this mod doesn't use semantic versioning, very bad.)
+  - [TakeThatMaskOff | 2.1.6](https://thunderstore.io/c/lethal-company/p/SillySquad/TakeThatMaskOff/) - Masked will now drop their mask on death and return player bodies.
+- Updated Mods
+  - [BetterEXP | 1.1.2 → 2.1.0](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/changelog/)
+  - [BetterSpec | 1.1.2 → 1.1.3](https://thunderstore.io/c/lethal-company/p/ZG/BetterSpec/changelog/)
+  - [BetterSprayPaint | 1.1.0 → 2.0.4](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/changelog/)
+  - [CoilHeadStare | 1.0.3 → 1.0.9](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/changelog/)
+  - [Coroner | 1.5.3 → 1.6.2](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/changelog/)
+  - [Diversity | 1.1.10 → 2.1.0](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/changelog/)
+  - [EnhancedRadarBooster | 1.5.4 → 1.7.1](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/changelog/)
+  - [ExtraDaysToDeadline | 2.1.2 → 2.2.2](https://thunderstore.io/c/lethal-company/p/Anubis/ExtraDaysToDeadline/changelog/)
+  - [Fashion_Company | 1.3.0 → 1.3.1](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/changelog/)
+  - [FrostySuits | 1.1.8 → 1.1.14](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/)
+  - [HexiBetterShotgun | 0.3.1 → 0.3.3](https://thunderstore.io/c/lethal-company/p/Hexi/HexiBetterShotgun/changelog/)
+  - [HostFixes | 1.0.4 → 1.0.14](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/changelog/)
+  - [HotbarPlus | 1.5.1 → 1.6.7](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/changelog/)
+  - [Lategame_Upgrades | 2.8.8 → 3.7.1](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/changelog/)
+  - [LC API | 3.3.2 → 3.4.5](https://thunderstore.io/c/lethal-company/p/2018/LC_API/changelog/) - Deprecated but required dependency
+  - [Lethal Admin | 1.2.0 → 1.8.0](https://thunderstore.io/c/lethal-company/p/gamendegamer/Lethal_Admin/changelog/)
+  - [LethalAutocomplete | 0.4.1 → 0.4.5](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/changelog/)
+  - [LethalCompany_InputUtils | 0.4.4 → 0.7.4](https://thunderstore.io/c/lethal-company/p/red_eye/LethalCompany_InputUtils/changelog/)
+  - [LethalConfig | 1.3.4 → 1.4.2](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/changelog/)
+  - [LethalExpansion | 1.3.18 → 1.3.45](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) - Deprecated but required dependency
+  - [LethalExpansionCore | 1.3.12 → 1.3.15](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/changelog/)
+  - [LethalFashion | 1.0.5 → 1.0.7](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/changelog/)
+  - [LethalLevelLoader | 1.0.4 → 1.2.4](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/changelog/)
+  - [LethalLib | 0.11.1 → 0.15.1](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/changelog/)
+  - [LethalThings | 0.8.8 → 0.10.4](https://thunderstore.io/c/lethal-company/p/evaisa/LethalThings/changelog/)
+  - [Mimics | 2.3.2 → 2.6.0](https://thunderstore.io/c/lethal-company/p/x753/Mimics/changelog/)
+  - [More_Emotes | 1.3.2 → 1.3.3](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/changelog/)
+  - [More_Suits | 1.4.1 → 1.4.3](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/changelog/)
+  - [MoreCompany | 1.7.4 → 1.9.1](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/changelog/)
+  - [MoreItems | 1.0.14 → 1.0.2](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/changelog/)
+  - [MoreMaterials | 1.3.1 → 1.3.2](https://thunderstore.io/c/lethal-company/p/itsmeowdev/MoreMaterials/changelog/)
+  - [NameplateTweaks | 1.0.6 → 1.0.7](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/changelog/)
+  - [OuijaBoard | 1.5.1 → 1.5.3](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/changelog/)
+  - [PintoBoy | 1.0.3 → 2.0.0](https://thunderstore.io/c/lethal-company/p/Pinta/PintoBoy/changelog/)
+  - [QuotaRollover | 2.1.0 → 2.5.0](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover/changelog/)
+  - [RecentlyPlayedWith | 1.0.1 → 1.0.4](https://thunderstore.io/c/lethal-company/p/Dev1A3/RecentlyPlayedWith/changelog/)
+  - [ReservedFlashlightSlot | 1.5.7 → 2.0.5](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/changelog/)
+  - [ReservedItemSlotCore | 1.8.5 → 2.0.29](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/changelog/)
+  - [ReservedWalkieSlot | 1.5.3 → 2.0.5](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/changelog/)
+  - [RollingGiant | 2.3.0 → 2.6.0](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/changelog/)
+  - [Scoopys Variety Mod | 0.6.3 → 1.2.0](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/changelog/)
+  - [SCP_Foundation_Suit | 1.0.3 → 1.1.0](https://thunderstore.io/c/lethal-company/p/TeamClark-SCP_Foundation_Suit/changelog/)
+  - [SCPFoundationDungeon | 1.5.0 → 4.2.0](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/changelog/)
+  - [ShipLoot | 1.0.0 → 1.1.0](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/changelog/)
+  - [SuitSaver | 1.1.4 → 1.2.0](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/changelog/)
+  - [TerminalApi | 1.5.0 → 1.5.4](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/changelog/)
+  - [TooManyEmotes | 1.7.7 → 2.1.17](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/changelog/)
+  - [TooManySuits | 1.0.5 → 1.0.9](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/changelog/)
+  - [Touchscreen | 1.0.8 → 1.1.2](https://thunderstore.io/c/lethal-company/p/TheDeadSnake/Touchscreen/changelog/)
+- Removed Mods
+  - [CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/) - Deprecated mod (big sadge)
+  - [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) - Deprecated mod, probably no longer needed
+## 3.2.0
+- Mod updates
+  - [LC API | 3.3.1 → 3.3.2](https://thunderstore.io/c/lethal-company/p/2018/LC_API/changelog/) - Bug fix
+  - [ReservedItemSlotCore | 1.8.0 → 1.8.5](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/changelog/) - Bug fixes
+  - [LethalLib | 0.10.1 → 0.11.1](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/changelog/) - Bug fixes
+  - [Lategame Upgrades | 2.8.7 → 2.8.8](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) - Bug fixes
+  - [Skinwalkers | 2.0.5 → 2.0.6](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) - Bug fix
+  - [More Emotes | 1.2.2 → 1.3.2](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) - v47 compatibility, new emotes and bug fixes
+  - [SCPFoundationDungeon | 1.4.1 → 1.5.0](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/changelog/) - v47 compatibility, bug fixes
+  - [Diversity | 1.1.9 → 1.1.10](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/changelog/) - Bug fix
+  - [EnhancedRadarBooster | 1.5.1 → 1.5.4](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/changelog/) - v47 compatibility, bug fixes
+  - [HotbarPlus | 1.5.0 → 1.5.1](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/changelog/) - Bug fix
+  - [GamblingMachineAtTheCompany | 1.1.3 → 1.2.3](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/changelog/) - Minor visual changes
+  - [LethalExpansion | 1.3.17 → 1.3.18](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) - Bug fix
+  - [BetterSpec | 1.1.1 → 1.1.2](https://thunderstore.io/c/lethal-company/p/ZG/BetterSpec/changelog/) - v47 compatibility
+  - [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/changelog/) - Bug fixes
+  - [LethalExpansionCore | 1.3.8 → 1.3.12](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/) - Bug fixes
+  - [LethalLevelLoader | 1.0.3 → 1.0.4](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) - Bug fixes
+  - [Scoopys Variety Mod | 0.6.1 → 0.6.3](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/changelog/) - Bug fixes
+## 3.1.0
+Mod links will now direct to changelogs, Thunderstore moved them to a tab (slightly annoying tbh)
+- Other players can complete another's assignments without it causing it to count as failed 
+- Removed Mods
+  - [AccurateClockDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateClockDisplay/) - Deprecated mod, replaced with LC Better Clock
+- Added Mods
+  - [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+- Mod Updates
+  - [ReservedItemSlotCore | 1.7.7 → 1.8.0](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/changelog/) - v47 compatibility update
+  - [Lategame Upgrades | 2.8.6 → 2.8.7](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/changelog/) - minor changes, new feature disabled as its covered by another mod
+  - [Mimics | 2.3.1 → 2.3.2](https://thunderstore.io/c/lethal-company/p/x753/Mimics/changelog/) - v47 compatibility update
+  - [Skinwalkers | 2.0.4 → 2.0.5](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/changelog/) - New config option
+  - [MoreCompany | 1.7.3 → 1.7.4](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/changelog/) - Bug fix
+  - [LethalFashion | 1.0.4 → 1.0.5](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/changelog/) - v47 compatibility
+  - [Diversity | 1.1.8 → 1.1.9](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/changelog/) - Bug fixes
+  - [TooManyEmotes | 1.7.6 → 1.7.7](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/changelog/) - temporary fix, masked wont emote for non-host players
+  - [MoreMaterials | 1.3.0 → 1.3.1](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials/changelog/) - No changes
+  - [SuitSaver | 1.1.2 → 1.1.4](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/changelog/) - No changes
+  - [Scoopys Variety Mod | 0.5.1 → 0.6.1](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/changelog/) - Bug fixes, config changes
+  - [GamblingMachineAtTheCompany | 1.1.2 → 1.1.3](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/changelog/) - New config options
+  - [ExtraDaysToDeadline | 2.1.1 → 2.1.2](https://thunderstore.io/c/lethal-company/p/Anubis/ExtraDaysToDeadline/changelog/) - Dependency version bump
+  - [LethalExpansion | 1.3.16 → 1.3.17](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) - Bug fixes
+  - [LethalConfig | 1.3.2 → 1.3.4](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/changelog/) - Bug fixes
+  - [LethalAPI Terminal](https://thunderstore.io/c/lethal-company/p/LethalAPI/LethalAPI_Terminal/changelog/) - Removed example commands
+## 3.0.0
+Stable on Lethal Company v47, more testing needed and likely awaiting mod updates, but does launch without issue.
+- Adjusted map monitor to be back to like vanilla
+- Removed Mods
+  - [LC Masked Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/) - Game update fixed this, so the mod is no longer needed
+- Mod Updates
+  - [LC API | 3.3.0 → 3.3.1](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+  - [Skinwalkers | 2.0.2 → 2.0.4](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) - Bug fixes
+  - [EladsHUD | 1.1.0 → 1.2.1](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/) - Config options
+  - [ExtraDaysToDeadline | 2.0.6 → 2.1.1](https://thunderstore.io/c/lethal-company/p/Anubis/ExtraDaysToDeadline/) - Bug fixes
+  - [LethalExpansionCore | 1.3.7 → 1.3.8](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/) - Bug fixes
+  - [MoreCompany | 1.7.2 → 1.7.3](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
+## 2.0.0 Bug fix overkill update
+!THIS BUILD AND PREVIOUS BUILDS ARE FOR v45 OF THE GAME!
+- Emotes moved to F keys, number keys now select hotbar slots, emote wheels still under grave key and v(? confirm keys in game settings)
+- Added Mods
+  - [ScanFix](https://thunderstore.io/c/lethal-company/p/Nebulaetrix/ScanFix/) - Makes scan command show true value of scrap
+  - [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/) - Makes spray paint much better
+  - [LC Masked Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/) - Fixes camera bug when being saved from masked attack
+  - [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) - Fixes flashlight bugs
+  - [Spectator Voice Icon Fix](https://thunderstore.io/c/lethal-company/p/ficcialfaint/Spectator_Voice_Icon_Fix/) - Fixes voice icon in PTT mode in spectator
+  - [LCConductivityFix](https://thunderstore.io/c/lethal-company/p/Misofist/LCConductivityFix/) - Makes items that shouldn't be conductive no longer conductive
+- Mod Updates
+  - [Skinwalkers | 2.0.1 → 2.0.2](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) - Bug fix and performance improvements
+  - [TooManyEmotes | 1.7.3 → 1.7.6](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - Bug fixes and minor tweaks (see mod changelog)
+  - [OuijaBoard | 1.5.0 → 1.5.1](https://thunderstore.io/c/lethal-company/p/FlipMods/OuijaBoard/) - New config option
+  - [HotbarPlus | 1.4.8 → 1.5.0](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) - New config option
+  - [LethalExpansion | 1.3.15 → 1.3.16](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) - Bug fixes
+## 1.3.0
+Change log mod updates now include the version jump, for those who want to look at changelogs in more detail.
+- Rolling Giant spawn capped to a max of 3, spawn rates increased slightly.
+- Masked now emote :) thanks to the [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) mod.
+- Mod Updates 
+  - [LC API | 3.2.4 → 3.3.0](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) - No gameplay changes
+  - [ReservedFlashlightSlot | 1.5.5 → 1.5.7](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) - Laser pointer no longer has a red box
+  - [Mimics | 2.3.0 → 2.3.1](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) - Bestiary entry for mimics now works for remote clients
+  - [TooManyEmotes | 1.6.4 → 1.7.3](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - Bug fixes, new emotes
+  - [NameplateTweaks | 1.0.5 → 1.0.6](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/) - Bug fix
+  - [Fashion Company | 1.2.0 → 1.3.0](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/) - New suit
+  - [RollingGiant | 2.2.1 → 2.3.0](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/) - Bug fixes
+  - [EnhancedRadarBooster | 1.5.0 → 1.5.1](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/) - No gameplay changes
+  - [LethalAutocomplete | 0.3.0 → 0.4.1](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - Tab autocomplete now handles multi word commands
+  - [HotbarPlus | 1.4.7 → 1.4.8](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) - Bug fix for default emotes binding
+  - [DarkMist | 1.2.0 → 1.3.0](https://thunderstore.io/c/lethal-company/p/Frack9/DarkMist/) - Bug fixes
+  - [LethalExpansion | 1.3.14 → 1.3.15](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) - Bug fixes
+## 1.2.0
+- Added Mods
+  - [BetterSpec](https://thunderstore.io/c/lethal-company/p/ZG/BetterSpec/) - Spectators can now see the time
+  - [BetterMonitor](https://thunderstore.io/c/lethal-company/p/fumiko/BetterMonitor/) - Changes some map icons, for the map monitor inside the ship
+  - [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/) - Fixes some bugs related to the host
+  - [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - Fixes save system not saving some items when you have more than 45 on ship
+  - [QuotaRollover](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover/) - Added mostly for lag prevention, caused by needing to hoard scrap as to not waste quota value, with this any extra money will move on to the next quota
+- Updated Mods
+  - [AbsasCosmetics](https://thunderstore.io/c/lethal-company/p/NiaNation/AbsasCosmetics/) - No changelog from mod developer
+  - [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) - Minor update no gameplay effects from what I can tell
+## 1.1.1
+Update versioning now assumes all mods follow [Semantic Versioning](https://semver.org/), this pack is also now following that format.
+- Deadline increase rate lowered (play testing needed)
+- Rolling giant tweaked again minor debuff
+- Battery skill cap lowered to 10
+- Health regen skill level cap increased to 25
+- Loot value skill removed due to being way to powerful
+- Increased the chance of no event when landing
+- Changelog moved to correct location
+- Hotbar size set to 5 slots + reserved slots
+- Mod Updates
+  - [LC API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+  - [FrostySuits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/)
+  - [Scoopys Variety Mod](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/)
+  - [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/)
+  - [RecentlyPlayedWith](https://thunderstore.io/c/lethal-company/p/Dev1A3/RecentlyPlayedWith/)
+## 1.1.0
+ - Mod updates
+ - Hot bar size increased to 6 + reserved slots
+ - Some more mods (future mod additions will be logged)
+ - Changed spawning rate on rolling giants to be a touch less common
+ - And maybe some other minor config changes (again will be better logged next time)
+## 1.0.0
+ - Release
